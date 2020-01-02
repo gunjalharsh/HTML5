@@ -1,0 +1,18 @@
+<footer>
+	<form>
+		<center>
+			 
+  				<p> Posted by:<b>BreadBasket Team </b> </p>
+ 		 			<p>Contact information: <a href="mailto:someone@example.com">someone@example.com</a>.</p>
+          				<p>Address:SSPDL Alpha City IT Park Navalur,chennai </p>
+          					<p>Contact Number : <b>9876543210,9987567854 </b></p>
+          					<marquee><label> <b> Thanks for Visiting BreadBasket </b> </label></marquee>
+
+
+          				</center>
+         					 </form>
+  
+</footer>
+
+
+ 
