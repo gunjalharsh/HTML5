@@ -1,0 +1,67 @@
+<!doctype html>
+
+<html lang = "en">
+
+	<head>
+		<meta charset = "utf-8">
+	<title>
+		BreadBasket
+	</title>
+
+	<audio source src="C:\Users\DELL\Desktop\sample.mp3" autoplay >
+    Your browser does not support the  Audio element.
+</audio>
+
+
+	</head>
+	
+	<body background = "C:\Users\DELL\Desktop\food.JPG" style = "background-repeat:no-repeat;background-size:cover;">
+		
+      		<marquee><font color="#DB4437"  >Welcome To BreadBasket.co.in</font></marquee>
+		<form method="post" style = "widht : 70% ; float :right;">
+			<fieldset style="background-color : #FFC600" >
+				<legend> <strong>Existing User</strong> </legend>
+                           	<p align = "right">
+				<lable for="email">Customer I.D.</lable>
+				<input type="email" name="email" placeholder="xyz@abc.com"  align  = "right" required>
+				<lable for="password">Password</lable>
+        			<input type="password" name="pswd" placeholder="Enter 6 digit password " min="6" max= "6"  align  = "right" required></br></br>	
+        			<center>	
+				<input type = "submit" name="submit" value = " Please Enter "> </center>
+				</p>
+			</fieldset>
+		
+
+		<fieldset style="background-color:#22C4F3">
+		<legend><b>Sign Up Form</b></legend>
+		<p align="right">
+	<b>	Name: </b> <input type="text" name="name" placeholder="Full name" required> <br><br>
+	<b>	Email: </b> <input type="email" name="email" placeholder="Email Id" required><br><br>
+	<b>	Mobile No.</b> <input type="tel" name="mob" placeholder="Mobile Number" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required><br><br>
+		<b>Password </b> <input type="password" name="password" placeholder="Password" required><br><br>
+	<center>	<input type="submit" name="submit" value="Register"> &nbsp; <input type="reset" value="Reset"></center>
+	</p>
+		</fieldset>
+	
+		</form>
+
+<iframe width="550" height="550" src="https://www.youtube.com/embed/ZRMYqYBCv3M?autoplay=1&cc_load_policy=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+		<center>
+		<footer style="position :fixed;width: 100% ; bottom: 0; float : center;">
+			<center>
+			
+ 		 	<p>Contact information: <a href="mailto:someone@example.com">someone@example.com</a>.</p>
+          		<p>Address:SSPDL Alpha City IT Park Navalur,chennai </p>
+          		<p>Contact Number : <b>9876543210,9987567854 </b></p>
+          		<p> <font color="#DB4437" ><b>Created by:BreadBasket Team </b> </p>
+          		<marquee><label> <b> Thanks for Visiting BreadBasket </b> </label></marquee>
+         		</center>
+         	</footer>
+		</center>
+
+	</body>		
+	</html>
+
